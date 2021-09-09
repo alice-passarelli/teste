@@ -1,5 +1,5 @@
 N,Estado Civil,Grau de Instrução,N de Filhos,Salario (x Sal Min),Idade_Anos,Idade_Meses,Região de Procedência
-1,solteiro,ensino fundamental,,4,26,3,interior
+1,solteiro,ensino fundamental,,5,26,3,interior
 2,casado,ensino fundamental,1,"4,56",32,10,capital
 3,casado,ensino fundamental,2,"5,25",36,5,capital
 4,solteiro,ensino médio,,"5,73",20,10,outra
